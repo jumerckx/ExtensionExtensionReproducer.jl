@@ -1,0 +1,4 @@
+[deps]
+CalculusWithJulia = "a2e0e22d-7d4c-5312-9169-8b992201a882"
+ExtensionExtensionReproducer = "3f2f4494-4857-4fb4-9d20-87b554c3efb7"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
